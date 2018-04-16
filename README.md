@@ -1,5 +1,6 @@
 # TF-Dataset-Creator
-[How to create your own dataset with Tensorflow Object Detection API](http://yongyong-e.tistory.com/31?category=763033).
+How to create your own dataset with [Tensorflow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection).\
+[Reference](http://yongyong-e.tistory.com/31?category=763033)
 
 
 ## Requirements
